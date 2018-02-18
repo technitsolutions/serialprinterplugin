@@ -1,0 +1,30 @@
+{
+  "name": "com.neuralink.cordova.serialprinterplugin",
+  "version": "1.0.1",
+  "description": "Cordova Plugin compatible with Custom USB Printers",
+  "cordova": {
+    "id": "com.neuralink.cordova.serialprinterplugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technitsolutions/serialprinterplugin"
+  },
+  "keywords": [
+    "custom",
+    "printer",
+    "cordova",
+    "plugin",
+    "usb",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Carlos Adan Cortes De la Fuente",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/Neuralink/serialprinterplugin/issues"
+  },
+  "homepage": "https://github.com/Neuralink/serialprinterplugin"
+}
